@@ -1919,7 +1919,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" vod_library="https://tunebox.space/Ilvod" billed-msg="CLAIM MERDEKA GIFT DI TELEGRAM GROUP.INVITE LINK - ottgo.xyz/invite"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://mytvsuperepg.860775.xyz/epg.xml" vod_library="https://tunebox.space/Ilvod" billed-msg="𝗣𝗘𝗥𝗧𝗔𝗡𝗬𝗔𝗔𝗡 & 𝗕𝗔𝗡𝗧𝗨𝗔𝗡 ~ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣/𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 = 𝟬𝟭𝟭 𝟯𝟭𝟬𝟵 𝟮𝟲𝟬𝟱  (𝗔𝗗𝗠𝗜𝗡)" refresh="6" max_conn="1"
 
 #EXTINF:-1 codec="hard" tvg-id="Blank.Dummy.us" ch-number="100" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/fixerror.png" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/malaysialogo.png" group-title="MALAYSIA",PANDUAN PENGGUNA
 https://tunebox.space/Xfixerror.ts
@@ -4067,7 +4067,7 @@ https://tunebox.space/XPHccm.mpd
 
 
 
-#EXTINF:-1 codec="hard" group-title="MOVIE" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 codec="hard" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 #EXTINF:-1 codec="hard" tvg-id="AMC (East).us" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/amc.png" group-title="MOVIE",AMC USA
@@ -10316,7 +10316,8 @@ https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 
 
 
-
+#EXTINF:-1 codec="hard" group-title="CRIME TV" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
 
 #EXTINF:-1 codec="hard" tvg-id="LN_D08B8566-8303-4C43-B854-782AF2D7EB8F" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D08B8566-8303-4C43-B854-782AF2D7EB8F/3-1x1.png" group-title="CRIME TV", Dateline 24/7
 https://s5host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/live/master.m3u8?ads.cdnhost=s5host3.localnow.api.cms.amdvids.com&ads.playbackid=D08B8566-8303-4C43-B854-782AF2D7EB8F&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1714063134&ads.n3=qp_content_id&ads.v3=D08B8566-8303-4C43-B854-782AF2D7EB8F&ads.n4=content_name&ads.v4=EPG%20%7C%20Dateline%2024%2F7&ads.n21=channel_company_id&ads.v21=AMDP500448&ads.n22=channel_id&ads.v22=D08B8566-8303-4C43-B854-782AF2D7EB8F&ads.n23=channel_language&ads.v23=en&ads.n24=content_provider&ads.v24=dateline&ads.n25=channel_corp&ads.v25=NBCUniversal&ads.n26=app_version&ads.v26=0.0.0&ads.n27=device_type&ads.v27=&ads.n28=content_custom_3_param&ads.v28=channel&ads.n29=app_bundle&ads.v29=&ads.n30=device_model&ads.v30=&ads.n31=w&ads.v31=1920&ads.n32=channel_rating&ads.v32=TV-PG&ads.n33=h&ads.v33=1080&ads.n34=content_custom_1_param&ads.v34=D08B8566-8303-4C43-B854-782AF2D7EB8F&ads.n35=ip&ads.v35=195.179.200.80&ads.n36=app_store_url&ads.v36=&ads.n37=channel_ext_id&ads.v37=63740cd95c7b1ab0430a5c44&ads.n38=channel_name&ads.v38=EPG%20%20Dateline%2024%2F7&ads.n39=url&ads.v39=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=content_producer_name&ads.v41=NBCUniversal&ads.n42=content_livestream&ads.v42=1&ads.n43=us_privacy&ads.v43=1YNY&ads.n44=app_name&ads.v44=&ads.n45=channel_title&ads.v45=EPG%20%20Dateline%2024%2F7&ads.n46=pos&ads.v46=midroll&ads.n47=dnt&ads.v47=&ads.n48=content_type&ads.v48=channel&ads.n49=channel_genre&ads.v49=True%20Crime&ads.n50=channel_brand_id&ads.v50=AMDB012976&ads.n51=network_name&ads.v51=dateline&ads.n52=device_make&ads.v52=&ads.n53=content_custom_2_param&ads.v53=AMDB012976&ads.n54=cust_devicename&ads.v54=desktop_web&ads.n55=ifa_type&ads.v55=&ads.n56=did&ads.v56=
@@ -10928,6 +10929,529 @@ https://tunebox.space/XUKskyatlantic.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iP
 
 
 
+#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="TVB Jade" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbjade.png" group-title="ENTERTAINMENT",TVB JADE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_1
+https://tunebox.space/URL_STREAM_1
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="TVB Jade 4K" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbjade.png" group-title="ENTERTAINMENT",TVB JADE 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_2
+https://tunebox.space/URL_STREAM_2
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbplus.png" group-title="ENTERTAINMENT",TVB PLUS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_3
+https://tunebox.space/URL_STREAM_3
+
+
+#EXTINF:-1 codec="hard" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="TVB News" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbnews.png" group-title="NEWS",TVB NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_4
+https://tunebox.space/URL_STREAM_4
+#EXTINF:-1 tvg-id="明珠台" tvg-name="TVB Pearl" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbpearl.png" group-title="ENTERTAINMENT",TVB PEARL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_5
+https://tunebox.space/URL_STREAM_5
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="Phoenix Chinese Channel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/phoenixchinese.png" group-title="NEWS",PHOENIX CHINESE CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_6
+https://tunebox.space/URL_STREAM_6
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="Phoenix InfoNews Channel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/phoenixinfonews.png" group-title="NEWS",PHOENIX INFONEWS CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_7
+https://tunebox.space/URL_STREAM_7
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="Phoenix Hong Kong Channel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/phoenixhongkong.png" group-title="NEWS",PHOENIX HONG KONG CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_8
+https://tunebox.space/URL_STREAM_8
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="TVB Entertainment News" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbentertainmentnews.png" group-title="ENTERTAINMENT",TVB ENTERTAINMENT NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_9
+https://tunebox.space/URL_STREAM_9
+#EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/superfree.png" group-title="ENTERTAINMENT",SUPER FREE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_10
+https://tunebox.space/URL_STREAM_10
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="TVB Jade Classic" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbjadeclassic.png" group-title="ENTERTAINMENT",TVB JADE CLASSIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_11
+https://tunebox.space/URL_STREAM_11
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="TVB Classic Movies" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbclassicmovies.png" group-title="ENTERTAINMENT",TVB CLASSIC MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_12
+https://tunebox.space/URL_STREAM_12
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="TVB Chinese Drama" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbchinesedrama.png" group-title="ENTERTAINMENT",TVB CHINESE DRAMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_13
+https://tunebox.space/URL_STREAM_13
+
+
+
+#EXTINF:-1 codec="hard" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="TVB Cantonese Movies" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbcantonesemovies.png" group-title="MOVIE",TVB CANTONESE MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_14
+https://tunebox.space/URL_STREAM_14
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="TVB Asian Drama" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbasian.png" group-title="ENTERTAINMENT",TVB ASIAN DRAMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_15
+https://tunebox.space/URL_STREAM_15
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="TVB Golden Chinese Drama" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbgoldenchinese.png" group-title="DRAMA SERIES",TVB GOLDEN CHINESE DRAMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_16
+https://tunebox.space/URL_STREAM_16
+#EXTINF:-1 tvg-id="戲曲台" tvg-name="TVB Opera" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbopera.png" group-title="ENTERTAINMENT",TVB OPERA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_17
+https://tunebox.space/URL_STREAM_17
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="Mei Ah Movies" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/meiahmovies.png" group-title="MOVIE",MEI AH MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_18
+https://tunebox.space/URL_STREAM_18
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thrill.png" group-title="MOVIE",THRILL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_19
+https://tunebox.space/URL_STREAM_19
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="Celestial Movies Classic" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/celestialclassic.png" group-title="MOVIE",CELESTIAL MOVIES CLASSIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_20
+https://tunebox.space/URL_STREAM_20
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="CMG Movie Channel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cmgmovie.png" group-title="MOVIE",CMG MOVIE CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_21
+https://tunebox.space/URL_STREAM_21
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockaction.png" group-title="MOVIE",ROCK ACTION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_22
+https://tunebox.space/URL_STREAM_22
+#EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockextreme.png" group-title="MOVIE",ROCK EXTREME
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_23
+https://tunebox.space/URL_STREAM_23
+#EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK Entertainment" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockentertainment.png" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_24
+https://tunebox.space/URL_STREAM_24
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kix.png" group-title="ENTERTAINMENT",KIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_25
+https://tunebox.space/URL_STREAM_25
+
+
+
+#EXTINF:-1 codec="hard" group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png" group-title="DOCUMENTARY",LOVE NATURE HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_26
+https://tunebox.space/URL_STREAM_26
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png" group-title="DOCUMENTARY",LOVE NATURE 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_27
+https://tunebox.space/URL_STREAM_27
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="TRAVEL" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/globaltrekker.png" group-title="TRAVEL",GLOBAL TREKKER
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_28
+https://tunebox.space/URL_STREAM_28
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png" group-title="ENTERTAINMENT",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_29
+https://tunebox.space/URL_STREAM_29
+
+
+
+
+#EXTINF:-1 codec="hard" group-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/animelogo.png" group-title="ANIME" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animax.png" group-title="ANIME",ANIMAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_30
+https://tunebox.space/URL_STREAM_30
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvn.png" group-title="ENTERTAINMENT",TVN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_31
+https://tunebox.space/URL_STREAM_31
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="TVBS Asia" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbsasia.png" group-title="ENTERTAINMENT",TVBS ASIA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_32
+https://tunebox.space/URL_STREAM_32
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="創世電視" tvg-name="Creation TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/creationtv.png" group-title="LIFESTYLE",CREATION TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_33
+https://tunebox.space/URL_STREAM_33
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fashionbox.png" group-title="LIFESTYLE",FASHIONBOX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_34
+https://tunebox.space/URL_STREAM_34
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mezzo.png" group-title="MUSIC",MEZZO LIVE HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_35
+https://tunebox.space/URL_STREAM_35
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/popc.png" group-title="ENTERTAINMENT",POPC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_36
+https://tunebox.space/URL_STREAM_36
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="TVBS News" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbsnews.png" group-title="NEWS",TVBS NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_37
+https://tunebox.space/URL_STREAM_37
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cna.png" group-title="NEWS",CNA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_38
+https://tunebox.space/URL_STREAM_38
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aljazeera.png" group-title="NEWS",AL JAZEERA ENGLISH
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_39
+https://tunebox.space/URL_STREAM_39
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/france24.png" group-title="NEWS",FRANCE 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_40
+https://tunebox.space/URL_STREAM_40
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dw.png" group-title="NEWS",DW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_41
+https://tunebox.space/URL_STREAM_41
+#EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nhkworld.png" group-title="NEWS",NHK WORLD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_42
+https://tunebox.space/URL_STREAM_42
+#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arirang.png" group-title="ENTERTAINMENT",ARIRANG TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_43
+https://tunebox.space/URL_STREAM_43
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supersports.png" group-title="SPORTS",SUPER SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_44
+https://tunebox.space/URL_STREAM_44
+#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mytvsuper18.png" group-title="SPORTS",MYTV SUPER 18
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_45
+https://tunebox.space/URL_STREAM_45
+#EXTINF:-1 tvg-id="myTV SUPER直播足球2台" tvg-name="myTV SUPER Football 2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mytvsuperfootball.png" group-title="SPORTS",MYTV SUPER FOOTBALL 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_46
+https://tunebox.space/URL_STREAM_46
+#EXTINF:-1 tvg-id="myTV SUPER直播足球3台" tvg-name="myTV SUPER Football 3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mytvsuperfootball.png" group-title="SPORTS",MYTV SUPER FOOTBALL 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_47
+https://tunebox.space/URL_STREAM_47
+#EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER Football 4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mytvsuperfootball.png" group-title="SPORTS",MYTV SUPER FOOTBALL 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_48
+https://tunebox.space/URL_STREAM_48
+#EXTINF:-1 tvg-id="myTV SUPER直播足球5台" tvg-name="myTV SUPER Football 5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mytvsuperfootball.png" group-title="SPORTS",MYTV SUPER FOOTBALL 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_49
+https://tunebox.space/URL_STREAM_49
+#EXTINF:-1 tvg-id="myTV SUPER直播足球6台" tvg-name="myTV SUPER Football 6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mytvsuperfootball.png" group-title="SPORTS",MYTV SUPER FOOTBALL 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_50
+https://tunebox.space/URL_STREAM_50
+#EXTINF:-1 tvg-id="myTV SUPER直播足球7台" tvg-name="myTV SUPER Football 7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mytvsuperfootball.png" group-title="SPORTS",MYTV SUPER FOOTBALL 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_51
+https://tunebox.space/URL_STREAM_51
+#EXTINF:-1 tvg-id="互動窗 1" tvg-name="Interactive Window 1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/interactivewindow.png" group-title="ENTERTAINMENT",INTERACTIVE WINDOW 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_52
+https://tunebox.space/URL_STREAM_52
+#EXTINF:-1 tvg-id="互動窗 2" tvg-name="Interactive Window 2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/interactivewindow.png" group-title="ENTERTAINMENT",INTERACTIVE WINDOW 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_53
+https://tunebox.space/URL_STREAM_53
+
+
+
+#EXTINF:-1 codec="hard" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G  K O N G ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/superkids.png" group-title="KIDS",SUPER KIDS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_54
+https://tunebox.space/URL_STREAM_54
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/zoomoo.png" group-title="KIDS",ZOOMOO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_55
+https://tunebox.space/URL_STREAM_55
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickelodeon.png" group-title="KIDS",NICKELODEON
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_56
+https://tunebox.space/URL_STREAM_56
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickjr.png" group-title="KIDS",NICK JR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_57
+https://tunebox.space/URL_STREAM_57
+#EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER Game Master" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supergamemaster.png" group-title="ENTERTAINMENT",SUPER GAME MASTER
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_58
+https://tunebox.space/URL_STREAM_58
+#EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPER EYT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supereyt.png" group-title="ENTERTAINMENT",SUPER EYT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_59
+https://tunebox.space/URL_STREAM_59
+#EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER Foodie" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/superfoodie.png" group-title="LIFESTYLE",SUPER FOODIE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_60
+https://tunebox.space/URL_STREAM_60
+#EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER Travel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supertravel.png" group-title="TRAVEL",SUPER TRAVEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_61
+https://tunebox.space/URL_STREAM_61
+#EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supermusic.png" group-title="MUSIC",SUPER MUSIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_62
+https://tunebox.space/URL_STREAM_62
+#EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER Golden Hits" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supergoldenhits.png" group-title="MUSIC",SUPER GOLDEN HITS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_63
+https://tunebox.space/URL_STREAM_63
+#EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER Drama" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/superdrama.png" group-title="ENTERTAINMENT",SUPER DRAMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_64
+https://tunebox.space/URL_STREAM_64
+#EXTINF:-1 tvg-id="SUPER劇場" tvg-name="SUPER Theater" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supertheater.png" group-title="ENTERTAINMENT",SUPER THEATER
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_65
+https://tunebox.space/URL_STREAM_65
+#EXTINF:-1 tvg-id="SUPER話當年" tvg-name="SUPER Memories" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supermemories.png" group-title="ENTERTAINMENT",SUPER MEMORIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_66
+https://tunebox.space/URL_STREAM_66
+#EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cctv1.png" group-title="ENTERTAINMENT",CCTV-1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_67
+https://tunebox.space/URL_STREAM_67
+#EXTINF:-1 tvg-id="中國中央電視台中文國際頻道" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cctv4.png" group-title="NEWS",CCTV-4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_68
+https://tunebox.space/URL_STREAM_68
+#EXTINF:-1 tvg-id="中國中央電視台娛樂頻道" tvg-name="CCTV-Entertainment" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cctventertainment.png" group-title="ENTERTAINMENT",CCTV-ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_69
+https://tunebox.space/URL_STREAM_69
+#EXTINF:-1 tvg-id="中國中央電視台戲曲頻道" tvg-name="CCTV-Opera" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cctvopera.png" group-title="ENTERTAINMENT",CCTV-OPERA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_70
+https://tunebox.space/URL_STREAM_70
+#EXTINF:-1 tvg-id="CGTN (中國環球電視網)記錄頻道" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cgtndocumentary.png" group-title="DOCUMENTARY",CGTN DOCUMENTARY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_71
+https://tunebox.space/URL_STREAM_71
+#EXTINF:-1 tvg-id="CGTN (中國環球電視網)英語頻道" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cgtn.png" group-title="NEWS",CGTN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_72
+https://tunebox.space/URL_STREAM_72
+#EXTINF:-1 tvg-id="雲南瀾湄國際衛視" tvg-name="Yunnan TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/yunnantv.png" group-title="ENTERTAINMENT",YUNNAN TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_73
+https://tunebox.space/URL_STREAM_73
+#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="Dragon TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dragontv.png" group-title="ENTERTAINMENT",DRAGON TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_74
+https://tunebox.space/URL_STREAM_74
+#EXTINF:-1 tvg-id="安徽廣播電視台國際頻道" tvg-name="Anhui TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/anhuitv.png" group-title="ENTERTAINMENT",ANHUI TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_75
+https://tunebox.space/URL_STREAM_75
+#EXTINF:-1 tvg-id="北京電視台國際頻道" tvg-name="Beijing TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beijingtv.png" group-title="ENTERTAINMENT",BEIJING TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_76
+https://tunebox.space/URL_STREAM_76
+#EXTINF:-1 tvg-id="廣西電視台國際頻道" tvg-name="Guangxi TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/guangxitv.png" group-title="ENTERTAINMENT",GUANGXI TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_77
+https://tunebox.space/URL_STREAM_77
+#EXTINF:-1 tvg-id="福建海峽衛視國際頻道" tvg-name="Fujian Straits TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fujianstraits.png" group-title="ENTERTAINMENT",FUJIAN STRAITS TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_78
+https://tunebox.space/URL_STREAM_78
+#EXTINF:-1 tvg-id="湖南電視台國際頻道" tvg-name="Hunan TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hunantv.png" group-title="ENTERTAINMENT",HUNAN TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_79
+https://tunebox.space/URL_STREAM_79
+#EXTINF:-1 tvg-id="江蘇電視台國際頻道" tvg-name="Jiangsu TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/jiangsutv.png" group-title="ENTERTAINMENT",JIANGSU TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_80
+https://tunebox.space/URL_STREAM_80
+#EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="GDTV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gdtv.png" group-title="ENTERTAINMENT",GDTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_81
+https://tunebox.space/URL_STREAM_81
+#EXTINF:-1 tvg-id="浙江電視台國際頻道" tvg-name="ZJTV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/zjtv.png" group-title="ENTERTAINMENT",ZJTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_82
+https://tunebox.space/URL_STREAM_82
+#EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="Shenzhen TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/shenzhentv.png" group-title="ENTERTAINMENT",SHENZHEN TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_83
+https://tunebox.space/URL_STREAM_83
+#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/actionhollywood.png" group-title="MOVIE",ACTION HOLLYWOOD MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_84
+https://tunebox.space/URL_STREAM_84
+#EXTINF:-1 tvg-id="Rialto Classic Movies (RCM)" tvg-name="Rialto Classic Movies" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rialtoclassic.png" group-title="MOVIE",RIALTO CLASSIC MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_85
+https://tunebox.space/URL_STREAM_85
+#EXTINF:-1 tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newsworld.png" group-title="NEWS",NEWSWORLD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_86
+https://tunebox.space/URL_STREAM_86
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tracesportstars.png" group-title="SPORTS",TRACE SPORT STARS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_87
+https://tunebox.space/URL_STREAM_87
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/petclubtv.png" group-title="LIFESTYLE",PET CLUB TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_88
+https://tunebox.space/URL_STREAM_88
 
 
 
@@ -10952,221 +11476,6 @@ https://tunebox.space/XUKskyatlantic.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iP
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 codec="hard" group-title="ANIME" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animax.png" tvg-id="animax.hk",ANIMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 
 
 
@@ -11175,52 +11484,11 @@ https://tunebox.space/Xosnkids.m3u8
 
 
 
-#EXTINF:-1 codec="hard" group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
-https://tunebox.shop/promo2
-
-
-
-#EXTINF:-1 codec="hard" group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png" tvg-id="axn.hk",AXN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-
-
-
-#EXTINF:-1 codec="hard" group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
-https://tunebox.shop/promo2
-
-
-
-#EXTINF:-1 codec="hard" group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png" tvg-id="love nature hd.hk",LOVE NATURE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
-
-
 
 #EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="DOCUMENTARY",OSN DISCOVERY
 https://tunebox.space/Xosndocumentary.m3u8
 
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
-https://tunebox.shop/promo2
 
-
-
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/popc.png" tvg-id="PopC.hk",POPC 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKpopc.m3u8
-
-
-
-#EXTINF:-1 codec="hard" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
-https://tunebox.shop/promo2
-
-
-
-
-#EXTINF:-1 codec="hard" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockaction.png" tvg-id="ROCK ACTION.HK",ROCK ACTION 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKrockaction.m3u8
 
 
 
@@ -11257,91 +11525,35 @@ https://tunebox.space/XHKtvbnews.m3u8
 
 
 
-
-#EXTINF:-1 codec="hard" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ H O N G K O N G ▬▬▬▬▬▬▬
+#EXTINF:-1 codec="hard" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
-
-#EXTINF:-1 codec="hard" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/tvbs.png" tvg-id="CH-1",TVB NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKtvbenews.m3u8
-
-#EXTINF:-1 codec="hard" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/meiah.png" tvg-id="Mei Ah Movie Channel.hk",MEI AH MOVIE CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKmeiah.m3u8
-
-#EXTINF:-1 codec="hard" group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/chinesedrama.png" tvg-id="Chinese Drama Channel.hk",CHINESE DRAMA CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKcdc.m3u8
-
-
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbjade.png" tvg-id="CH-17",TVB J1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKtvbj1.m3u8
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/phoenixchinesechannel.png" tvg-id="Phoenix Chinese Channel.hk",PHOENIX CHINESE CHANNEL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKphoenixchinesechannel.m3u8
-
-#EXTINF:-1 codec="hard" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/phoenixinfonews.png" tvg-id="Phoenix InfoNews Channel.hk",PHOENIX INFO NEWS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKphoenixinfonews.m3u8
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/phoenixhongkong.png" tvg-id="Phoenix Hong Kong Channel.hk",PHOENIX TV HONG KONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKphoenixtvhk.m3u8
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/mytvsuper.png" tvg-id="myTV SUPER 18台.hk",MYTV SUPER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKmytvsuper.m3u8
-
-
-
-
-
-#EXTINF:-1 codec="hard" group-title="NEWS" tvg-id="cna" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cna.png",CNA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKcna.m3u8
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-id="klt.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/klt.png",KLT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKklt.m3u8
-
-#EXTINF:-1 codec="hard" group-title="NEWS" tvg-id="tvbsnews.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvbs.png",TVBS NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKtvbs.m3u8
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-id="ftv.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/ftv.png",ETTV CHANNEL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKettv.m3u8
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-id="ftv.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/ftv.png",ETTV CHANNEL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKettv2.m3u8
-
-
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-id="tvbgalaxy.hk" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/tvbgalaxy.png",TVB GALAXY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKtvb.m3u8
-
-#EXTINF:-1 codec="hard" group-title="NEWS" tvg-id="ctiasia.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ctiasia.png",CTI ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKcti.m3u8
-
-#EXTINF:-1 codec="hard" group-title="NEWS" tvg-id="ettvnews.hk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ettv.png",ETTV NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://tunebox.space/XHKettvnews.m3u8
-
-
-
 
 
 #EXTINF:-1 codec="hard" tvg-id="LN_5A0B47C3-6DD5-4399-94FE-3D5390D762AE" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5A0B47C3-6DD5-4399-94FE-3D5390D762AE/3-1x1.png" group-title="NEWS", Local Now NYC
 https://s5host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/6382dce7bdc0a0da/3e68012d98d8a39c/playlist.m3u8?ads.cdnhost=s5host4.localnow.api.cms.amdvids.com&ads.playbackid=5A0B47C3-6DD5-4399-94FE-3D5390D762AE&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5A0B47C3-6DD5-4399-94FE-3D5390D762AE&ads.n4=content_name&ads.v4=EPG%20%7C%20Local%20Now%20SGA%20New%20York%20NY&ads.n21=channel_id&ads.v21=5A0B47C3-6DD5-4399-94FE-3D5390D762AE&ads.n22=channel_genre&ads.v22=News&ads.n23=channel_language&ads.v23=en&ads.n24=network_name&ads.v24=nyNewYorkCity&ads.n25=ip&ads.v25=195.179.200.80&ads.n26=gpp&ads.v26=&ads.n27=channel_name&ads.v27=EPG%20%20Local%20Now%20SGA%20New%20York%20NY&ads.n28=w&ads.v28=1920&ads.n29=content_provider&ads.v29=nyNewYorkCity&ads.n30=device_type&ads.v30=&ads.n31=content_custom_3_param&ads.v31=channel&ads.n32=content_producer_name&ads.v32=Local%20Now%20Local&ads.n33=url&ads.v33=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n34=channel_brand_id&ads.v34=AMDB012342&ads.n35=channel_rating&ads.v35=TV-PG&ads.n36=channel_company_id&ads.v36=AMDP500215&ads.n37=ifa_type&ads.v37=&ads.n38=device_make&ads.v38=&ads.n39=did&ads.v39=&ads.n40=channel_title&ads.v40=EPG%20%20Local%20Now%20SGA%20New%20York%20NY&ads.n41=app_bundle&ads.v41=&ads.n42=cust_devicename&ads.v42=desktop_web&ads.n43=pos&ads.v43=midroll&ads.n44=dnt&ads.v44=&ads.n45=content_type&ads.v45=channel&ads.n46=app_name&ads.v46=&ads.n47=channel_corp&ads.v47=Local%20Now%20Local&ads.n48=content_custom_2_param&ads.v48=AMDB012342&ads.n49=us_privacy&ads.v49=1YNY&ads.n50=h&ads.v50=1080&ads.n51=ua&ads.v51=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n52=app_version&ads.v52=0.0.0&ads.n53=device_model&ads.v53=&ads.n54=content_livestream&ads.v54=1&ads.n55=channel_ext_id&ads.v55=6180446cd34aba7e0a3dbca2&ads.n56=gpp_sid&ads.v56=&ads.n57=app_store_url&ads.v57=&ads.n58=content_custom_1_param&ads.v58=5A0B47C3-6DD5-4399-94FE-3D5390D762AE
 
+
+
+
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
 #EXTINF:-1 codec="hard" tvg-id="LN_5DEE999E-5E7E-41A4-ABDE-661F71AF39AB" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5DEE999E-5E7E-41A4-ABDE-661F71AF39AB/3-1x1.png" group-title="COMEDY", Johnny Carson TV
 https://s1host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config1/playlist.m3u8?ads.cdnhost=s1host1.localnow.api.cms.amdvids.com&ads.playbackid=5DEE999E-5E7E-41A4-ABDE-661F71AF39AB&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5DEE999E-5E7E-41A4-ABDE-661F71AF39AB&ads.n4=content_name&ads.v4=EPG%20%7C%20Johnny%20Carson%20TV&ads.n21=channel_title&ads.v21=EPG%20%20Johnny%20Carson%20TV&ads.n22=channel_ext_id&ads.v22=5f9ac57e0c90b906e16b2872&ads.n23=did&ads.v23=&ads.n24=app_bundle&ads.v24=&ads.n25=device_make&ads.v25=&ads.n26=pos&ads.v26=midroll&ads.n27=channel_name&ads.v27=EPG%20%20Johnny%20Carson%20TV&ads.n28=channel_id&ads.v28=5DEE999E-5E7E-41A4-ABDE-661F71AF39AB&ads.n29=channel_rating&ads.v29=TV-PG&ads.n30=content_type&ads.v30=channel&ads.n31=channel_corp&ads.v31=Shout%21%20Factory%20LLC&ads.n32=app_name&ads.v32=&ads.n33=w&ads.v33=1920&ads.n34=content_producer_name&ads.v34=Shout%21%20Factory%20LLC&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=device_model&ads.v36=&ads.n37=gpp&ads.v37=&ads.n38=gpp_sid&ads.v38=&ads.n39=h&ads.v39=1080&ads.n40=dnt&ads.v40=&ads.n41=content_custom_1_param&ads.v41=5DEE999E-5E7E-41A4-ABDE-661F71AF39AB&ads.n42=channel_company_id&ads.v42=AMDP500152&ads.n43=channel_language&ads.v43=en&ads.n44=content_provider&ads.v44=johnny-carson-tv&ads.n45=us_privacy&ads.v45=1YNY&ads.n46=content_custom_2_param&ads.v46=AMDB012045&ads.n47=network_name&ads.v47=johnny-carson-tv&ads.n48=channel_genre&ads.v48=Talk%20Show&ads.n49=channel_brand_id&ads.v49=AMDB012045&ads.n50=ip&ads.v50=195.179.200.80&ads.n51=cust_devicename&ads.v51=desktop_web&ads.n52=ifa_type&ads.v52=&ads.n53=device_type&ads.v53=&ads.n54=app_version&ads.v54=0.0.0&ads.n55=url&ads.v55=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n56=app_store_url&ads.v56=&ads.n57=content_custom_3_param&ads.v57=channel&ads.n58=content_livestream&ads.v58=1
+
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
 
 #EXTINF:-1 codec="hard" tvg-id="LN_6F32CEBE-2240-45BC-944D-64B90A7D7698" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6F32CEBE-2240-45BC-944D-64B90A7D7698/3-1x1.png" group-title="DRAMA SERIES", McLeod's Daughters
 https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s7host5.localnow.api.cms.amdvids.com&ads.playbackid=6F32CEBE-2240-45BC-944D-64B90A7D7698&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6F32CEBE-2240-45BC-944D-64B90A7D7698&ads.n4=content_name&ads.v4=McLeod%27s%20Daughters%3A%20powered%20by%20Banijay&ads.n21=channel_rating&ads.v21=TV-PG&ads.n22=channel_language&ads.v22=en&ads.n23=us_privacy&ads.v23=1YNY&ads.n24=did&ads.v24=&ads.n25=channel_id&ads.v25=6F32CEBE-2240-45BC-944D-64B90A7D7698&ads.n26=content_producer_name&ads.v26=Banijay%20Rights%20LTD&ads.n27=content_custom_3_param&ads.v27=channel&ads.n28=pos&ads.v28=midroll&ads.n29=w&ads.v29=1920&ads.n30=gpp&ads.v30=&ads.n31=content_custom_2_param&ads.v31=AMDB013296&ads.n32=channel_corp&ads.v32=Banijay%20Rights%20LTD&ads.n33=ip&ads.v33=195.179.200.80&ads.n34=cust_devicename&ads.v34=desktop_web&ads.n35=app_bundle&ads.v35=&ads.n36=device_type&ads.v36=&ads.n37=channel_ext_id&ads.v37=&ads.n38=gpp_sid&ads.v38=&ads.n39=ua&ads.v39=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n40=channel_genre&ads.v40=Drama&ads.n41=device_model&ads.v41=&ads.n42=device_make&ads.v42=&ads.n43=channel_name&ads.v43=McLeod%27s%20Daughters%3A%20powered%20by%20Banijay&ads.n44=content_livestream&ads.v44=1&ads.n45=app_store_url&ads.v45=&ads.n46=channel_brand_id&ads.v46=AMDB013296&ads.n47=app_version&ads.v47=0.0.0&ads.n48=content_custom_1_param&ads.v48=6F32CEBE-2240-45BC-944D-64B90A7D7698&ads.n49=channel_company_id&ads.v49=AMDP500504&ads.n50=app_name&ads.v50=&ads.n51=content_type&ads.v51=channel&ads.n52=ifa_type&ads.v52=&ads.n53=dnt&ads.v53=&ads.n54=h&ads.v54=1080&ads.n55=network_name&ads.v55=mcleods-daughters-powered-by-banijay&ads.n56=channel_title&ads.v56=McLeod%27s%20Daughters%3A%20powered%20by%20Banijay&ads.n57=url&ads.v57=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n58=content_provider&ads.v58=mcleods-daughters-powered-by-banijay
@@ -11349,8 +11561,24 @@ https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 codec="hard" tvg-id="LN_C8596E36-9338-457D-BE4B-B96D1DDB8CC6" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/C8596E36-9338-457D-BE4B-B96D1DDB8CC6/3-1x1.png" group-title="LEARNING", PBS Antiques Roadshow
 https://s9host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist.m3u8?ads.cdnhost=s9host2.localnow.api.cms.amdvids.com&ads.playbackid=C8596E36-9338-457D-BE4B-B96D1DDB8CC6&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=C8596E36-9338-457D-BE4B-B96D1DDB8CC6&ads.n4=content_name&ads.v4=PBS%20Antiques%20Roadshow&ads.n21=channel_rating&ads.v21=TV-PG&ads.n22=content_custom_3_param&ads.v22=channel&ads.n23=content_custom_1_param&ads.v23=C8596E36-9338-457D-BE4B-B96D1DDB8CC6&ads.n24=h&ads.v24=1080&ads.n25=ifa_type&ads.v25=&ads.n26=device_type&ads.v26=&ads.n27=us_privacy&ads.v27=1YNY&ads.n28=url&ads.v28=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n29=content_livestream&ads.v29=1&ads.n30=channel_title&ads.v30=PBS%20Antiques%20Roadshow&ads.n31=dnt&ads.v31=&ads.n32=channel_id&ads.v32=C8596E36-9338-457D-BE4B-B96D1DDB8CC6&ads.n33=ua&ads.v33=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n34=device_model&ads.v34=&ads.n35=app_name&ads.v35=&ads.n36=channel_genre&ads.v36=Entertainment&ads.n37=content_type&ads.v37=channel&ads.n38=app_bundle&ads.v38=&ads.n39=w&ads.v39=1920&ads.n40=app_store_url&ads.v40=&ads.n41=did&ads.v41=&ads.n42=content_custom_2_param&ads.v42=AMDB013475&ads.n43=ip&ads.v43=195.179.200.80&ads.n44=channel_language&ads.v44=en&ads.n45=cust_devicename&ads.v45=desktop_web&ads.n46=channel_name&ads.v46=PBS%20Antiques%20Roadshow&ads.n47=content_provider&ads.v47=pbs-antiques-roadshow&ads.n48=gpp_sid&ads.v48=&ads.n49=channel_company_id&ads.v49=AMDP500543&ads.n50=content_producer_name&ads.v50=Public%20Media%20Distribution%20LLC&ads.n51=gpp&ads.v51=&ads.n52=app_version&ads.v52=0.0.0&ads.n53=channel_corp&ads.v53=Public%20Media%20Distribution%20LLC&ads.n54=pos&ads.v54=midroll&ads.n55=device_make&ads.v55=&ads.n56=channel_ext_id&ads.v56=&ads.n57=channel_brand_id&ads.v57=AMDB013475&ads.n58=network_name&ads.v58=pbs-antiques-roadshow
 
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+
 #EXTINF:-1 codec="hard" tvg-id="LN_2F313B57-C7AE-4230-8EF0-CA6078850402" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2F313B57-C7AE-4230-8EF0-CA6078850402/3-1x1.png" group-title="DOCUMENTARY", Bark TV
 https://s2host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/HLS/FIDO_SCTE.m3u8?ads.cdnhost=s2host2.localnow.api.cms.amdvids.com&ads.playbackid=2F313B57-C7AE-4230-8EF0-CA6078850402&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=2F313B57-C7AE-4230-8EF0-CA6078850402&ads.n4=content_name&ads.v4=Bark%20TV&ads.n21=device_type&ads.v21=&ads.n22=channel_genre&ads.v22=Nature&ads.n23=content_custom_2_param&ads.v23=AMDB012152&ads.n24=h&ads.v24=1080&ads.n25=gpp&ads.v25=&ads.n26=w&ads.v26=1920&ads.n27=content_livestream&ads.v27=1&ads.n28=content_provider&ads.v28=fido-tv&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=channel_language&ads.v30=en&ads.n31=channel_corp&ads.v31=Triple-B%20Media%20LLC&ads.n32=channel_ext_id&ads.v32=60d203fd9004e453316e7b92&ads.n33=gpp_sid&ads.v33=&ads.n34=channel_id&ads.v34=2F313B57-C7AE-4230-8EF0-CA6078850402&ads.n35=content_custom_1_param&ads.v35=2F313B57-C7AE-4230-8EF0-CA6078850402&ads.n36=channel_rating&ads.v36=TV-PG&ads.n37=device_model&ads.v37=&ads.n38=content_custom_3_param&ads.v38=channel&ads.n39=ip&ads.v39=195.179.200.80&ads.n40=pos&ads.v40=midroll&ads.n41=content_producer_name&ads.v41=Triple-B%20Media%20LLC&ads.n42=content_type&ads.v42=channel&ads.n43=device_make&ads.v43=&ads.n44=channel_name&ads.v44=Bark%20TV&ads.n45=ifa_type&ads.v45=&ads.n46=ua&ads.v46=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n47=app_bundle&ads.v47=&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=channel_title&ads.v49=Bark%20TV&ads.n50=channel_brand_id&ads.v50=AMDB012152&ads.n51=dnt&ads.v51=&ads.n52=app_store_url&ads.v52=&ads.n53=did&ads.v53=&ads.n54=network_name&ads.v54=fido-tv&ads.n55=app_version&ads.v55=0.0.0&ads.n56=channel_company_id&ads.v56=AMDP500174&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=app_name&ads.v58=
+
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
 
 #EXTINF:-1 codec="hard" tvg-id="LN_753CC8EA-2DEF-47B1-92DC-86EEA17167BD" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/753CC8EA-2DEF-47B1-92DC-86EEA17167BD/3-1x1.png" group-title="SPORTS", MotorRacing
 https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/strm/channels/motorracing/master.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=753CC8EA-2DEF-47B1-92DC-86EEA17167BD&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=753CC8EA-2DEF-47B1-92DC-86EEA17167BD&ads.n4=content_name&ads.v4=EPG%20%7C%20MotorRacing%20Channel&ads.n21=channel_ext_id&ads.v21=6414b866bf541914830e8279&ads.n22=us_privacy&ads.v22=1YNY&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=dnt&ads.v24=&ads.n25=content_producer_name&ads.v25=Horizon%20Sports%20Limited&ads.n26=ip&ads.v26=195.179.200.80&ads.n27=channel_corp&ads.v27=Horizon%20Sports%20Limited&ads.n28=channel_name&ads.v28=EPG%20%20MotorRacing%20Channel&ads.n29=content_custom_2_param&ads.v29=AMDB012494&ads.n30=device_model&ads.v30=&ads.n31=w&ads.v31=1920&ads.n32=cust_devicename&ads.v32=desktop_web&ads.n33=device_make&ads.v33=&ads.n34=channel_id&ads.v34=753CC8EA-2DEF-47B1-92DC-86EEA17167BD&ads.n35=channel_rating&ads.v35=TV-PG&ads.n36=gpp_sid&ads.v36=&ads.n37=channel_brand_id&ads.v37=AMDB012494&ads.n38=content_custom_1_param&ads.v38=753CC8EA-2DEF-47B1-92DC-86EEA17167BD&ads.n39=app_store_url&ads.v39=&ads.n40=app_version&ads.v40=0.0.0&ads.n41=did&ads.v41=&ads.n42=url&ads.v42=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n43=channel_genre&ads.v43=Sports&ads.n44=channel_title&ads.v44=EPG%20%20MotorRacing%20Channel&ads.n45=ifa_type&ads.v45=&ads.n46=content_provider&ads.v46=motorracing&ads.n47=app_bundle&ads.v47=&ads.n48=h&ads.v48=1080&ads.n49=app_name&ads.v49=&ads.n50=gpp&ads.v50=&ads.n51=channel_company_id&ads.v51=AMDP500219&ads.n52=pos&ads.v52=midroll&ads.n53=channel_language&ads.v53=en&ads.n54=content_type&ads.v54=channel&ads.n55=network_name&ads.v55=motorracing&ads.n56=content_custom_3_param&ads.v56=channel&ads.n57=device_type&ads.v57=&ads.n58=content_livestream&ads.v58=1
@@ -11415,6 +11643,12 @@ https://5b628e43b8394c3b922d087a76bccb0e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 codec="hard" tvg-id="LN_D6F4D053-B69C-4A5F-A8E2-9A9671BE7D04" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D6F4D053-B69C-4A5F-A8E2-9A9671BE7D04/3-1x1.png" group-title="NEWS", Spend Smart
 https://s10host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/playlist.m3u8?ads.cdnhost=s10host1.localnow.api.cms.amdvids.com&ads.playbackid=D6F4D053-B69C-4A5F-A8E2-9A9671BE7D04&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D6F4D053-B69C-4A5F-A8E2-9A9671BE7D04&ads.n4=content_name&ads.v4=Spend%20Smart&ads.n21=channel_title&ads.v21=Spend%20Smart&ads.n22=ifa_type&ads.v22=&ads.n23=content_livestream&ads.v23=1&ads.n24=network_name&ads.v24=spend-smart&ads.n25=app_name&ads.v25=&ads.n26=device_make&ads.v26=&ads.n27=content_custom_1_param&ads.v27=D6F4D053-B69C-4A5F-A8E2-9A9671BE7D04&ads.n28=gpp&ads.v28=&ads.n29=app_store_url&ads.v29=&ads.n30=channel_genre&ads.v30=News%20And%20Opinion&ads.n31=content_producer_name&ads.v31=Cox%20Broadcasting&ads.n32=content_type&ads.v32=channel&ads.n33=channel_name&ads.v33=Spend%20Smart&ads.n34=device_type&ads.v34=&ads.n35=channel_brand_id&ads.v35=AMDB013568&ads.n36=content_custom_2_param&ads.v36=AMDB013568&ads.n37=device_model&ads.v37=&ads.n38=channel_ext_id&ads.v38=&ads.n39=pos&ads.v39=midroll&ads.n40=content_provider&ads.v40=spend-smart&ads.n41=app_version&ads.v41=0.0.0&ads.n42=app_bundle&ads.v42=&ads.n43=channel_corp&ads.v43=Cox%20Broadcasting&ads.n44=content_custom_3_param&ads.v44=channel&ads.n45=channel_id&ads.v45=D6F4D053-B69C-4A5F-A8E2-9A9671BE7D04&ads.n46=dnt&ads.v46=&ads.n47=channel_language&ads.v47=en&ads.n48=channel_company_id&ads.v48=AMDP500165&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=gpp_sid&ads.v50=&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=w&ads.v52=1920&ads.n53=h&ads.v53=1080&ads.n54=us_privacy&ads.v54=1YNY&ads.n55=did&ads.v55=&ads.n56=cust_devicename&ads.v56=desktop_web&ads.n57=url&ads.v57=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n58=ip&ads.v58=195.179.200.80
 
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
 
 
 #EXTINF:-1 codec="hard" tvg-id="LN_A48FFE37-5FF8-486F-B048-D8793F969F26" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A48FFE37-5FF8-486F-B048-D8793F969F26/3-1x1.png" group-title="MOVIE", Hunter
@@ -11489,7 +11723,19 @@ https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 codec="hard" tvg-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/3-1x1.png" group-title="COMEDY", Three Stooges+
 https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?did=&dnt=&genre=Comedy&gdpr_consent=&channel_corp=C3%20Entertainment%20INC&channel_company_id=AMDP500511&us_privacy=1YNY&h=1080&channel_name=Three%20Stooges+&app_bundle=&app_store_url=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&w=1920&gdpr=&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&ic=&device_model=&device_type=&coppa=0&idtype=&iu=&channel_brand_id=AMDB013402&device_make=&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&content_provider=three-stooges&app_name=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=195.179.200.80
 
-#EXTINF:-1 codec="hard" tvg-id="LN_EF37B5DC-D83E-4E11-BD19-6018F6C92938" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/EF37B5DC-D83E-4E11-BD19-6018F6C92938/3-1x1.png" group-title="GAME SHOW", Deal or No Deal
+
+
+
+
+
+
+
+
+#EXTINF:-1 codec="hard" group-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/gameshowlogo.png" group-title="GAME SHOW" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 codec="hard" tvg-id="LN_EF37B5DC-D83E-4E11-BD19-6018F6C92938"  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/EF37B5DC-D83E-4E11-BD19-6018F6C92938/3-1x1.png" group-title="GAME SHOW", Deal or No Deal
 https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s7host5.localnow.api.cms.amdvids.com&ads.playbackid=EF37B5DC-D83E-4E11-BD19-6018F6C92938&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=EF37B5DC-D83E-4E11-BD19-6018F6C92938&ads.n4=content_name&ads.v4=Deal%20or%20No%20Deal%3A%20powered%20by%20Banijay&ads.n21=ifa_type&ads.v21=&ads.n22=app_name&ads.v22=&ads.n23=app_version&ads.v23=0.0.0&ads.n24=pos&ads.v24=midroll&ads.n25=content_custom_2_param&ads.v25=AMDB013291&ads.n26=channel_ext_id&ads.v26=&ads.n27=content_type&ads.v27=channel&ads.n28=h&ads.v28=1080&ads.n29=ua&ads.v29=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n30=channel_rating&ads.v30=TV-PG&ads.n31=device_type&ads.v31=&ads.n32=cust_devicename&ads.v32=desktop_web&ads.n33=gpp&ads.v33=&ads.n34=dnt&ads.v34=&ads.n35=device_make&ads.v35=&ads.n36=did&ads.v36=&ads.n37=channel_genre&ads.v37=Game%20Show&ads.n38=channel_id&ads.v38=EF37B5DC-D83E-4E11-BD19-6018F6C92938&ads.n39=content_provider&ads.v39=deal-or-no-deal-powered-by-banijay&ads.n40=channel_title&ads.v40=Deal%20or%20No%20Deal%3A%20powered%20by%20Banijay&ads.n41=network_name&ads.v41=deal-or-no-deal-powered-by-banijay&ads.n42=app_store_url&ads.v42=&ads.n43=content_livestream&ads.v43=1&ads.n44=channel_language&ads.v44=en&ads.n45=content_producer_name&ads.v45=Banijay%20Rights%20LTD&ads.n46=gpp_sid&ads.v46=&ads.n47=channel_name&ads.v47=Deal%20or%20No%20Deal%3A%20powered%20by%20Banijay&ads.n48=channel_brand_id&ads.v48=AMDB013291&ads.n49=url&ads.v49=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n50=channel_company_id&ads.v50=AMDP500504&ads.n51=device_model&ads.v51=&ads.n52=us_privacy&ads.v52=1YNY&ads.n53=ip&ads.v53=195.179.200.80&ads.n54=content_custom_1_param&ads.v54=EF37B5DC-D83E-4E11-BD19-6018F6C92938&ads.n55=channel_corp&ads.v55=Banijay%20Rights%20LTD&ads.n56=app_bundle&ads.v56=&ads.n57=w&ads.v57=1920&ads.n58=content_custom_3_param&ads.v58=channel
 
 #EXTINF:-1 codec="hard" tvg-id="LN_42903FD3-42A2-4352-A2F2-293575CA4C4F" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/42903FD3-42A2-4352-A2F2-293575CA4C4F/3-1x1.png" group-title="GAME SHOW", Wipeout Extra
@@ -11551,19 +11797,9 @@ https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 
 
 
-#EXTINF:-1 codec="hard" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
-https://tunebox.shop/promo2
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 codec="hard" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
-https://tunebox.shop/promo2
 
 
 #EXTINF:-1 codec="hard" tvg-id="LN_F981CDC4-C3EB-4C65-8134-AB5F1920F9DC" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F981CDC4-C3EB-4C65-8134-AB5F1920F9DC/3-1x1.png" group-title="ENTERTAINMENT", TheGrio
@@ -11577,6 +11813,14 @@ https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?am.originUrl=https%3A%
 
 #EXTINF:-1 codec="hard" tvg-id="LN_47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD/3-1x1.png" group-title="ENTERTAINMENT", Popstar! TV
 https://s2host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/10/hls/master/playlist.m3u8?ads.cdnhost=s2host4.localnow.api.cms.amdvids.com&ads.playbackid=47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD&ads.n4=content_name&ads.v4=EPG%20%7C%20Popstar%21%20TV&ads.n21=ifa_type&ads.v21=&ads.n22=app_store_url&ads.v22=&ads.n23=gpp&ads.v23=&ads.n24=channel_genre&ads.v24=Entertainment&ads.n25=content_custom_3_param&ads.v25=channel&ads.n26=channel_ext_id&ads.v26=5ffceab423748977d7657422&ads.n27=w&ads.v27=1920&ads.n28=content_type&ads.v28=channel&ads.n29=channel_company_id&ads.v29=AMDP500126&ads.n30=gpp_sid&ads.v30=&ads.n31=h&ads.v31=1080&ads.n32=content_custom_1_param&ads.v32=47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD&ads.n33=us_privacy&ads.v33=1YNY&ads.n34=app_name&ads.v34=&ads.n35=content_livestream&ads.v35=1&ads.n36=content_custom_2_param&ads.v36=AMDB012093&ads.n37=did&ads.v37=&ads.n38=device_make&ads.v38=&ads.n39=channel_corp&ads.v39=Associated%20Television%20International&ads.n40=device_model&ads.v40=&ads.n41=channel_brand_id&ads.v41=AMDB012093&ads.n42=ua&ads.v42=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n43=content_provider&ads.v43=popstar-tv&ads.n44=ip&ads.v44=195.179.200.80&ads.n45=channel_title&ads.v45=EPG%20%20Popstar%21%20TV&ads.n46=channel_language&ads.v46=en&ads.n47=channel_name&ads.v47=EPG%20%20Popstar%21%20TV&ads.n48=dnt&ads.v48=&ads.n49=device_type&ads.v49=&ads.n50=network_name&ads.v50=popstar-tv&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=channel_id&ads.v52=47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD&ads.n53=content_producer_name&ads.v53=Associated%20Television%20International&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=cust_devicename&ads.v55=desktop_web&ads.n56=pos&ads.v56=midroll&ads.n57=app_bundle&ads.v57=&ads.n58=app_version&ads.v58=0.0.0
+
+
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="PARANORMAL" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
 
 #EXTINF:-1 codec="hard" tvg-id="LN_D0DF28EB-0756-4476-80C4-FD05DE2E4E09" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D0DF28EB-0756-4476-80C4-FD05DE2E4E09/3-1x1.png" group-title="PARANORMAL", Scream Factory TV
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/dist/localnow/730/hls/master/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=D0DF28EB-0756-4476-80C4-FD05DE2E4E09&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D0DF28EB-0756-4476-80C4-FD05DE2E4E09&ads.n4=content_name&ads.v4=Scream%20Factory%20TV&ads.n21=did&ads.v21=&ads.n22=us_privacy&ads.v22=1YNY&ads.n23=dnt&ads.v23=&ads.n24=channel_ext_id&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=ua&ads.v26=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n27=w&ads.v27=1920&ads.n28=pos&ads.v28=midroll&ads.n29=content_type&ads.v29=channel&ads.n30=cust_devicename&ads.v30=desktop_web&ads.n31=gpp_sid&ads.v31=&ads.n32=network_name&ads.v32=scream-factory-tv&ads.n33=channel_id&ads.v33=D0DF28EB-0756-4476-80C4-FD05DE2E4E09&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=content_custom_2_param&ads.v35=AMDB013566&ads.n36=content_producer_name&ads.v36=Shout%21%20Factory%20LLC&ads.n37=device_type&ads.v37=&ads.n38=channel_brand_id&ads.v38=AMDB013566&ads.n39=content_custom_1_param&ads.v39=D0DF28EB-0756-4476-80C4-FD05DE2E4E09&ads.n40=channel_company_id&ads.v40=AMDP500152&ads.n41=ip&ads.v41=195.179.200.80&ads.n42=channel_corp&ads.v42=Shout%21%20Factory%20LLC&ads.n43=device_make&ads.v43=&ads.n44=channel_name&ads.v44=Scream%20Factory%20TV&ads.n45=content_provider&ads.v45=scream-factory-tv&ads.n46=channel_genre&ads.v46=Horror%20and%20SciFi&ads.n47=ifa_type&ads.v47=&ads.n48=channel_title&ads.v48=Scream%20Factory%20TV&ads.n49=channel_language&ads.v49=en&ads.n50=gpp&ads.v50=&ads.n51=h&ads.v51=1080&ads.n52=app_name&ads.v52=&ads.n53=device_model&ads.v53=&ads.n54=channel_rating&ads.v54=TV-MA&ads.n55=content_custom_3_param&ads.v55=channel&ads.n56=app_bundle&ads.v56=&ads.n57=content_livestream&ads.v57=1&ads.n58=app_store_url&ads.v58=
@@ -11598,6 +11842,14 @@ https://amg00966-amg00966c3-amgplt0096.playout.now3.amagi.tv/playlist/amg00966-a
 
 #EXTINF:-1 codec="hard" tvg-id="LN_803D1BB4-9C6B-4562-B71F-E58FB556F44B" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/803D1BB4-9C6B-4562-B71F-E58FB556F44B/3-1x1.png" group-title="PARANORMAL", Beyond Paranormal
 https://6e73d46459a74ae78d8bceb68011db47.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_BeyondParanormal/playlist.m3u8?ads.device_model=&ads.content_title=Beyond%20Paranormal&ads.wurl_name=BeyondParanormal&ads.app_bundle=&ads.channel_company_id=AMDP500388&ads.channel_brand_id=AMDB013437&ads.device_make=&ads.cust_devicename=&ads.content_provider=beyond-paranormal&ads.wurl_channel=1549&ads.app_name=&ads.channel_corp=Video%20Elephant&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.us_privacy=1YNY&ads.dnt=&ads.did=&ads.content_id=803D1BB4-9C6B-4562-B71F-E58FB556F44B&ads.cust_channeltype=channel&ads.app_store_url=&ads.channel_ext_id=&ads.ip=195.179.200.80&ads.device_type=&ads.content_genre=Thriller&ads.coppa=0&ads.ifa_type=&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web
+
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
 
 #EXTINF:-1 codec="hard" tvg-id="LN_15F7FB08-92A3-4376-9096-28697AC18E2F" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/15F7FB08-92A3-4376-9096-28697AC18E2F/3-1x1.png" group-title="LIFESTYLE", NBC LX Home
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/live/master.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=15F7FB08-92A3-4376-9096-28697AC18E2F&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1714063134&ads.n3=qp_content_id&ads.v3=15F7FB08-92A3-4376-9096-28697AC18E2F&ads.n4=content_name&ads.v4=NBC%20LX%20Home&ads.n21=channel_brand_id&ads.v21=AMDB013260&ads.n22=device_make&ads.v22=&ads.n23=channel_rating&ads.v23=TV-PG&ads.n24=h&ads.v24=1080&ads.n25=app_bundle&ads.v25=&ads.n26=app_version&ads.v26=0.0.0&ads.n27=app_store_url&ads.v27=&ads.n28=channel_corp&ads.v28=NBCUniversal&ads.n29=content_producer_name&ads.v29=NBCUniversal&ads.n30=network_name&ads.v30=nbc-lx-home&ads.n31=device_model&ads.v31=&ads.n32=ip&ads.v32=195.179.200.80&ads.n33=pos&ads.v33=midroll&ads.n34=channel_id&ads.v34=15F7FB08-92A3-4376-9096-28697AC18E2F&ads.n35=content_custom_3_param&ads.v35=channel&ads.n36=ifa_type&ads.v36=&ads.n37=content_type&ads.v37=channel&ads.n38=channel_company_id&ads.v38=AMDP500448&ads.n39=app_name&ads.v39=&ads.n40=cust_devicename&ads.v40=desktop_web&ads.n41=url&ads.v41=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n42=w&ads.v42=1920&ads.n43=dnt&ads.v43=&ads.n44=content_custom_2_param&ads.v44=AMDB013260&ads.n45=content_livestream&ads.v45=1&ads.n46=content_provider&ads.v46=nbc-lx-home&ads.n47=channel_title&ads.v47=NBC%20LX%20Home&ads.n48=channel_language&ads.v48=en&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=content_custom_1_param&ads.v50=15F7FB08-92A3-4376-9096-28697AC18E2F&ads.n51=channel_ext_id&ads.v51=&ads.n52=us_privacy&ads.v52=1YNY&ads.n53=channel_genre&ads.v53=News&ads.n54=channel_name&ads.v54=NBC%20LX%20Home&ads.n55=did&ads.v55=&ads.n56=device_type&ads.v56=
@@ -11659,6 +11911,13 @@ https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 codec="hard" tvg-id="LN_246BE910-8683-4E47-82AC-5DA0AFE8CFCB" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/246BE910-8683-4E47-82AC-5DA0AFE8CFCB/3-1x1.png" group-title="MOVIE", Soul of the South
 https://s8host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/slangtv-soulcinema-rewardedtv/playlist.m3u8?ads.cdnhost=s8host4.localnow.api.cms.amdvids.com&ads.playbackid=246BE910-8683-4E47-82AC-5DA0AFE8CFCB&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=246BE910-8683-4E47-82AC-5DA0AFE8CFCB&ads.n4=content_name&ads.v4=Soul%20of%20the%20South&ads.n21=ua&ads.v21=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n22=gpp&ads.v22=&ads.n23=channel_brand_id&ads.v23=AMDB013125&ads.n24=ifa_type&ads.v24=&ads.n25=channel_company_id&ads.v25=AMDP500493&ads.n26=ip&ads.v26=195.179.200.80&ads.n27=pos&ads.v27=midroll&ads.n28=content_custom_3_param&ads.v28=channel&ads.n29=device_model&ads.v29=&ads.n30=app_bundle&ads.v30=&ads.n31=channel_name&ads.v31=Soul%20of%20the%20South&ads.n32=h&ads.v32=1080&ads.n33=did&ads.v33=&ads.n34=content_custom_2_param&ads.v34=AMDB013125&ads.n35=content_producer_name&ads.v35=Soul%20of%20the%20South%20Television&ads.n36=app_name&ads.v36=&ads.n37=content_provider&ads.v37=soul-of-the-south&ads.n38=device_make&ads.v38=&ads.n39=channel_rating&ads.v39=TV-PG&ads.n40=content_type&ads.v40=channel&ads.n41=cust_devicename&ads.v41=desktop_web&ads.n42=channel_id&ads.v42=246BE910-8683-4E47-82AC-5DA0AFE8CFCB&ads.n43=channel_ext_id&ads.v43=&ads.n44=channel_language&ads.v44=en&ads.n45=w&ads.v45=1920&ads.n46=dnt&ads.v46=&ads.n47=device_type&ads.v47=&ads.n48=app_version&ads.v48=0.0.0&ads.n49=app_store_url&ads.v49=&ads.n50=channel_genre&ads.v50=Entertainment&ads.n51=content_custom_1_param&ads.v51=246BE910-8683-4E47-82AC-5DA0AFE8CFCB&ads.n52=us_privacy&ads.v52=1YNY&ads.n53=channel_corp&ads.v53=Soul%20of%20the%20South%20Television&ads.n54=url&ads.v54=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n55=content_livestream&ads.v55=1&ads.n56=channel_title&ads.v56=Soul%20of%20the%20South&ads.n57=network_name&ads.v57=soul-of-the-south&ads.n58=gpp_sid&ads.v58=
 
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
 #EXTINF:-1 codec="hard" tvg-id="LN_0A695856-8690-46B1-85AD-56ED3D25C958" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0A695856-8690-46B1-85AD-56ED3D25C958/3-1x1.png" group-title="MUSIC", AXS TV Now
 https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playout/amg00966/amg00966c9/amgplt0096/amgplt0096.m3u8?ads.cdnhost=s10host4.localnow.api.cms.amdvids.com&ads.playbackid=0A695856-8690-46B1-85AD-56ED3D25C958&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=0A695856-8690-46B1-85AD-56ED3D25C958&ads.n4=content_name&ads.v4=EPG%20%7C%20AXS%20TV%20Now&ads.n21=url&ads.v21=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n22=device_type&ads.v22=&ads.n23=channel_name&ads.v23=EPG%20%20AXS%20TV%20Now&ads.n24=device_model&ads.v24=&ads.n25=channel_corp&ads.v25=Anthem%20Wrestling%20Exhibitions%20LLC&ads.n26=ifa_type&ads.v26=&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=cust_devicename&ads.v28=desktop_web&ads.n29=app_store_url&ads.v29=&ads.n30=w&ads.v30=1920&ads.n31=h&ads.v31=1080&ads.n32=channel_genre&ads.v32=Entertainment&ads.n33=ip&ads.v33=195.179.200.80&ads.n34=channel_brand_id&ads.v34=AMDB012005&ads.n35=gpp_sid&ads.v35=&ads.n36=app_bundle&ads.v36=&ads.n37=content_producer_name&ads.v37=Anthem%20Wrestling%20Exhibitions%20LLC&ads.n38=device_make&ads.v38=&ads.n39=dnt&ads.v39=&ads.n40=network_name&ads.v40=axs-tv-now&ads.n41=channel_language&ads.v41=en&ads.n42=app_version&ads.v42=0.0.0&ads.n43=channel_id&ads.v43=0A695856-8690-46B1-85AD-56ED3D25C958&ads.n44=channel_rating&ads.v44=TV-PG&ads.n45=gpp&ads.v45=&ads.n46=content_custom_1_param&ads.v46=0A695856-8690-46B1-85AD-56ED3D25C958&ads.n47=app_name&ads.v47=&ads.n48=content_custom_2_param&ads.v48=AMDB012005&ads.n49=channel_company_id&ads.v49=AMDP500125&ads.n50=content_provider&ads.v50=axs-tv-now&ads.n51=content_type&ads.v51=channel&ads.n52=content_livestream&ads.v52=1&ads.n53=channel_ext_id&ads.v53=60583af9d7944934b119e763&ads.n54=did&ads.v54=&ads.n55=content_custom_3_param&ads.v55=channel&ads.n56=pos&ads.v56=midroll&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=channel_title&ads.v58=EPG%20%20AXS%20TV%20Now
 
@@ -11712,6 +11971,14 @@ https://d1ebe89f7a7341a18f4b7d9d4f60b606.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 codec="hard" tvg-id="LN_83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF/3-1x1.png" group-title="DOCUMENTARY", H2O TV
 https://s9host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/738/hls/master/playlist.m3u8?ads.cdnhost=s9host4.localnow.api.cms.amdvids.com&ads.playbackid=83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF&ads.n4=content_name&ads.v4=H2O%20TV&ads.n21=channel_id&ads.v21=83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF&ads.n22=ua&ads.v22=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n23=channel_title&ads.v23=H2O%20TV&ads.n24=us_privacy&ads.v24=1YNY&ads.n25=content_type&ads.v25=channel&ads.n26=device_type&ads.v26=&ads.n27=content_custom_2_param&ads.v27=AMDB013545&ads.n28=app_store_url&ads.v28=&ads.n29=channel_name&ads.v29=H2O%20TV&ads.n30=app_version&ads.v30=0.0.0&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=app_name&ads.v32=&ads.n33=ip&ads.v33=195.179.200.80&ads.n34=content_provider&ads.v34=h2o-tv&ads.n35=device_make&ads.v35=&ads.n36=network_name&ads.v36=h2o-tv&ads.n37=ifa_type&ads.v37=&ads.n38=dnt&ads.v38=&ads.n39=h&ads.v39=1080&ads.n40=content_custom_1_param&ads.v40=83509CB7-5277-4C09-AB5E-7CCF2CD3B1DF&ads.n41=cust_devicename&ads.v41=desktop_web&ads.n42=gpp_sid&ads.v42=&ads.n43=channel_genre&ads.v43=Nature%20and%20Outdoors&ads.n44=did&ads.v44=&ads.n45=w&ads.v45=1920&ads.n46=channel_language&ads.v46=en&ads.n47=app_bundle&ads.v47=&ads.n48=content_livestream&ads.v48=1&ads.n49=device_model&ads.v49=&ads.n50=pos&ads.v50=midroll&ads.n51=gpp&ads.v51=&ads.n52=content_custom_3_param&ads.v52=channel&ads.n53=channel_brand_id&ads.v53=AMDB013545&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=channel_ext_id&ads.v55=&ads.n56=channel_corp&ads.v56=Pursuit%20Media%20TV%20LLC&ads.n57=content_producer_name&ads.v57=Pursuit%20Media%20TV%20LLC&ads.n58=channel_company_id&ads.v58=AMDP500223
+
+
+
+
+
+#EXTINF:-1 codec="hard" group-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/natureviewlogo.png" group-title="NATURE VIEW" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
 
 #EXTINF:-1 codec="hard" tvg-id="LN_3E365F9C-E1F6-434F-9C51-0F331DCCBC2C" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3E365F9C-E1F6-434F-9C51-0F331DCCBC2C/3-1x1.png" group-title="NATURE VIEW", NatureStream.TV
 https://s5host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/strm/channels/naturestreamm2/master.m3u8?ads.cdnhost=s5host4.localnow.api.cms.amdvids.com&ads.playbackid=3E365F9C-E1F6-434F-9C51-0F331DCCBC2C&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=3E365F9C-E1F6-434F-9C51-0F331DCCBC2C&ads.n4=content_name&ads.v4=EPG%20%7C%20NatureStream.TV&ads.n21=ua&ads.v21=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n22=content_custom_1_param&ads.v22=3E365F9C-E1F6-434F-9C51-0F331DCCBC2C&ads.n23=channel_brand_id&ads.v23=AMDB012532&ads.n24=pos&ads.v24=midroll&ads.n25=url&ads.v25=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n26=channel_name&ads.v26=EPG%20%20NatureStream.TV&ads.n27=content_custom_2_param&ads.v27=AMDB012532&ads.n28=channel_corp&ads.v28=Nature%20Stream%20TV&ads.n29=channel_genre&ads.v29=Nature&ads.n30=app_bundle&ads.v30=&ads.n31=dnt&ads.v31=&ads.n32=channel_company_id&ads.v32=AMDP500236&ads.n33=content_livestream&ads.v33=1&ads.n34=gpp&ads.v34=&ads.n35=channel_ext_id&ads.v35=62740bd53f67b501e23be192&ads.n36=content_provider&ads.v36=naturestreamtv&ads.n37=gpp_sid&ads.v37=&ads.n38=w&ads.v38=1920&ads.n39=channel_title&ads.v39=EPG%20%20NatureStream.TV&ads.n40=channel_rating&ads.v40=TV-PG&ads.n41=device_make&ads.v41=&ads.n42=ip&ads.v42=195.179.200.80&ads.n43=channel_language&ads.v43=en&ads.n44=device_type&ads.v44=&ads.n45=ifa_type&ads.v45=&ads.n46=app_name&ads.v46=&ads.n47=us_privacy&ads.v47=1YNY&ads.n48=device_model&ads.v48=&ads.n49=app_version&ads.v49=0.0.0&ads.n50=did&ads.v50=&ads.n51=network_name&ads.v51=naturestreamtv&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=content_producer_name&ads.v53=Nature%20Stream%20TV&ads.n54=app_store_url&ads.v54=&ads.n55=channel_id&ads.v55=3E365F9C-E1F6-434F-9C51-0F331DCCBC2C&ads.n56=content_type&ads.v56=channel&ads.n57=content_custom_3_param&ads.v57=channel&ads.n58=h&ads.v58=1080
@@ -11808,6 +12075,14 @@ https://cd3bd475.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TG9jYW
 
 #EXTINF:-1 codec="hard" tvg-id="LN_C5115534-F9FA-46D3-B3BA-325423EFED14" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/C5115534-F9FA-46D3-B3BA-325423EFED14/3-1x1.png" group-title="SPORTS", Speed Sport 1
 https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/599/hls/master/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=C5115534-F9FA-46D3-B3BA-325423EFED14&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=C5115534-F9FA-46D3-B3BA-325423EFED14&ads.n4=content_name&ads.v4=Speed%20Sport%201&ads.n21=content_custom_1_param&ads.v21=C5115534-F9FA-46D3-B3BA-325423EFED14&ads.n22=ifa_type&ads.v22=&ads.n23=channel_ext_id&ads.v23=&ads.n24=channel_genre&ads.v24=Sports&ads.n25=device_type&ads.v25=&ads.n26=network_name&ads.v26=speed-sport-1&ads.n27=channel_rating&ads.v27=TV-PG&ads.n28=content_custom_3_param&ads.v28=channel&ads.n29=channel_company_id&ads.v29=AMDP500533&ads.n30=app_name&ads.v30=&ads.n31=device_make&ads.v31=&ads.n32=cust_devicename&ads.v32=desktop_web&ads.n33=channel_brand_id&ads.v33=AMDB013471&ads.n34=content_type&ads.v34=channel&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=did&ads.v36=&ads.n37=content_livestream&ads.v37=1&ads.n38=ip&ads.v38=195.179.200.80&ads.n39=url&ads.v39=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n40=channel_name&ads.v40=Speed%20Sport%201&ads.n41=channel_corp&ads.v41=Speed%20Sport%201%20Partners%20LLC&ads.n42=h&ads.v42=1080&ads.n43=us_privacy&ads.v43=1YNY&ads.n44=gpp&ads.v44=&ads.n45=app_store_url&ads.v45=&ads.n46=channel_id&ads.v46=C5115534-F9FA-46D3-B3BA-325423EFED14&ads.n47=content_custom_2_param&ads.v47=AMDB013471&ads.n48=content_producer_name&ads.v48=Speed%20Sport%201%20Partners%20LLC&ads.n49=channel_language&ads.v49=en&ads.n50=dnt&ads.v50=&ads.n51=channel_title&ads.v51=Speed%20Sport%201&ads.n52=gpp_sid&ads.v52=&ads.n53=app_version&ads.v53=0.0.0&ads.n54=pos&ads.v54=midroll&ads.n55=device_model&ads.v55=&ads.n56=content_provider&ads.v56=speed-sport-1&ads.n57=w&ads.v57=1920&ads.n58=app_bundle&ads.v58=
+
+
+
+
+
+
+#EXTINF:-1 codec="hard" group-title="TRAVEL" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ L O C A L  N O W ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
 
 #EXTINF:-1 codec="hard" tvg-id="LN_A876D86C-9112-4EB8-AEF5-849A02B982E4" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A876D86C-9112-4EB8-AEF5-849A02B982E4/3-1x1.png" group-title="TRAVEL", NEW KFOOD
 https://311597f55ba04d558148c56b94311f36.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_NewKFOOD/playlist.m3u8?ads.device_make=&ads.content_title=A876D86C-9112-4EB8-AEF5-849A02B982E4&ads.content_provider=new-kfood&ads.ip=195.179.200.80&ads.app_bundle=&ads.channel_corp=NEW%20ID%20Co%20LTD&ads.content_id=A876D86C-9112-4EB8-AEF5-849A02B982E4&ads.wurl_name=NewKFOOD&ads.ifa_type=&ads.channel_company_id=AMDP500403&ads.channel_brand_id=AMDB012773&ads.channel_ext_id=62aa34d885976a7e467e1974&ads.device_type=&ads.app_name=&ads.us_privacy=1YNY&ads.coppa=0&ads.app_store_url=&ads.did=&ads.device_model=&ads.cust_devicename=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.wurl_channel=1100&ads.dnt=&ads.content_genre=Cooking&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920
