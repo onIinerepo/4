@@ -3016,12 +3016,12 @@ https://tunebox.space/Xarenabola2.mpd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux
 
 
 
+#EXTINF:-1 codec="hard" tvg-id="805.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supersportsuhd.png",805 SUPERSPORT UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-#EXTINF:-1 codec="hard" tvg-id="805.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supersportsuhd.png",805 SUPERSPORT UHD
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 https://tunebox.space/Xsupersportsuhd.mpd
 
 
@@ -4012,7 +4012,7 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 https://tunebox.space/XPHcinemo.mpd
 
 
-#EXTINF:-1 codec="hard" tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https:///tunebox-digital/icon/refs/heads/main/cinemaone.png" group-title="MOVIE",CINEMAONE 
+#EXTINF:-1 codec="hard" tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/cinemaone.png" group-title="MOVIE",CINEMAONE 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
@@ -4223,7 +4223,7 @@ https://tunebox.shop/promo2
 
 
 
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo+.png" group-title="MOVIE",HBO +
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/hbo+.png" group-title="MOVIE",HBO +
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -4237,7 +4237,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
 
-#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbopop.png" group-title="MOVIE",HBO Pop
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/hbopop.png" group-title="MOVIE",HBO Pop
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -4248,7 +4248,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-#EXTINF:-1 tvg-id="HBO Extream" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hboxtreme.png" group-title="MOVIE",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO Extream" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/hboxtreme.png" group-title="MOVIE",HBO Xtreme
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 
@@ -4850,7 +4850,7 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl
 #EXTINF:-1 codec="hard" tvg-id="UK:.Comedy.Movies.-.Rakuten.TV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutencomedy.png" group-title="COMEDY",RAKUTEN COMEDY  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="COMEDY",CHARLIE CHAPLIN
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/charliechaplin.png" group-title="COMEDY",CHARLIE CHAPLIN
 https://tunebox.space/Xcharliechaplin.m3u8
 
 
@@ -5135,7 +5135,7 @@ https://fl1.moveonjoy.com/BET_EAST/index.m3u8
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBj4COkcsVjY4WgMiAw==.m3u8
 
 
-#EXTINF:-1 codec="hard" tvg-name="CLEO TV" tvg-id="CLEO.TV.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/tv.png" group-title="DRAMA SERIES",CLEO TV
+#EXTINF:-1 codec="hard" tvg-name="CLEO TV" tvg-id="CLEO.TV.us" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/cleotv.png" group-title="DRAMA SERIES",CLEO TV
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8CBB0yVzZaJDxaBj8L.m3u8
 
 
@@ -6205,59 +6205,59 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 #EXTINF:-1 codec="hard" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ K I D S  2 4 7 ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",CARTOON BOX
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/cartoonbox.png" group-title="KIDS",CARTOON BOX
 https://tunebox.space/Xcartoonbox.m3u8
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",ODDBOODS
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/oddboods.png" group-title="KIDS",ODDBOODS
 https://tunebox.space/Xoddboods.m3u8
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",MICKEY MOUSE
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mickeymouse.png" group-title="KIDS",MICKEY MOUSE
 https://tunebox.space/Xmickeymouse.m3u8
 
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",MARSHA & THEBEAR
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/marsha&thebear.png" group-title="KIDS",MARSHA & THEBEAR
 https://tunebox.space/Xmarsha&thebear.m3u8
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",TOM & JERRY
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/tom&jerry.png" group-title="KIDS",TOM & JERRY
 https://tunebox.space/Xtom&jerry.m3u8
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",MIGHTY LITTLE BIM
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mightylittlebim.png" group-title="KIDS",MIGHTY LITTLE BIM
 https://tunebox.space/Xmightylittlebim.m3u8
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",LARVA
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/larvakids.png" group-title="KIDS",LARVA
 https://tunebox.space/Xlarva.m3u8
 
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",GRIZZY & THE LEMMINGS
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/grizzy&thelemmings.png" group-title="KIDS",GRIZZY & THE LEMMINGS
 https://tunebox.space/Xgrizzy&thelemmings.m3u8
 
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",ANGRY BIRD
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/angrybirds.png" group-title="KIDS",ANGRY BIRD
 https://tunebox.space/Xangrybird.m3u8
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",ANGRY BIRD BLUE
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/angrybirdsblues.png" group-title="KIDS",ANGRY BIRD BLUE
 https://tunebox.space/Xangrybirdblue.m3u8
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",SPIDERMAN KIDS
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/spidermankids.png" group-title="KIDS",SPIDERMAN KIDS
 https://tunebox.space/Xspidermankids.m3u8
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",SHAUN THE SHEEP
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/shaunthesheep.png" group-title="KIDS",SHAUN THE SHEEP
 https://tunebox.space/Xshaunthesheep.m3u8
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",PINK PANTHER
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/pinkpanther.png" group-title="KIDS",PINK PANTHER
 https://tunebox.space/Xpinkpanther.m3u8
 
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",OGGY & THE COCKROACH
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/oggy&thecockroach.png" group-title="KIDS",OGGY & THE COCKROACH
 https://tunebox.space/Xoggy&thecockroach.m3u8
 
 
@@ -6377,12 +6377,13 @@ https://tunebox.space/Xarenabola2.mpd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux
 
 
 
+
+#EXTINF:-1 codec="hard" tvg-id="805.astro" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supersportsuhd.png",805 SUPERSPORT UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-#EXTINF:-1 codec="hard" tvg-id="805.astro" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supersportsuhd.png",805 SUPERSPORT UHD
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 https://tunebox.space/Xsupersportsuhd.mpd
 
 
@@ -10785,26 +10786,26 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2F
 
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="KIDS",OSN KIDS
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/osnkids.png" group-title="KIDS",OSN KIDS
 https://tunebox.space/Xosnkids.m3u8
 
 
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="DOCUMENTARY",OSN DISCOVERY
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/osndiscovery.png" group-title="DOCUMENTARY",OSN DISCOVERY
 https://tunebox.space/Xosndocumentary.m3u8
 
 
 
 
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="MOVIE",OSN ACTION MOVIE
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/osnmoviesaction.png" group-title="MOVIE",OSN ACTION MOVIE
 https://tunebox.space/Xosnactionmovie.m3u8
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="MOVIE",OSN HOLLYWOOD MOVIE
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/osnmovieshollywood.png" group-title="MOVIE",OSN HOLLYWOOD MOVIE
 https://tunebox.space/Xosnhollywoodmovie.m3u8
 
-#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="00000" group-title="MOVIE",OSN PREMIERE MOVIE
+#EXTINF:-1 codec="hard" tvg-name="0000" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/osnmoviespremiere.png" group-title="MOVIE",OSN PREMIERE MOVIE
 https://tunebox.space/Xosnpremieremovie.m3u8
 
 
@@ -10965,7 +10966,7 @@ https://261024d8f335482e9e16ae14b6a1590d.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 codec="hard" tvg-id="LN_E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/wildwesttv.png" group-title="MOVIE", Wild West TV
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/799/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0&ads.n4=content_name&ads.v4=Wild%20West%20TV&ads.n21=channel_title&ads.v21=Wild%20West%20TV&ads.n22=channel_brand_id&ads.v22=AMDB013525&ads.n23=content_provider&ads.v23=wild-west-tv&ads.n24=ip&ads.v24=195.179.200.80&ads.n25=content_producer_name&ads.v25=Shout%21%20Factory%20LLC&ads.n26=app_name&ads.v26=&ads.n27=ifa_type&ads.v27=&ads.n28=w&ads.v28=1920&ads.n29=content_custom_1_param&ads.v29=E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0&ads.n30=content_type&ads.v30=channel&ads.n31=did&ads.v31=&ads.n32=content_custom_2_param&ads.v32=AMDB013525&ads.n33=h&ads.v33=1080&ads.n34=gpp_sid&ads.v34=&ads.n35=content_livestream&ads.v35=1&ads.n36=pos&ads.v36=midroll&ads.n37=channel_corp&ads.v37=Shout%21%20Factory%20LLC&ads.n38=us_privacy&ads.v38=1YNY&ads.n39=channel_company_id&ads.v39=AMDP500152&ads.n40=gpp&ads.v40=&ads.n41=channel_name&ads.v41=Wild%20West%20TV&ads.n42=channel_id&ads.v42=E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=device_model&ads.v44=&ads.n45=ua&ads.v45=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n46=app_store_url&ads.v46=&ads.n47=device_make&ads.v47=&ads.n48=url&ads.v48=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n49=cust_devicename&ads.v49=desktop_web&ads.n50=app_bundle&ads.v50=&ads.n51=channel_genre&ads.v51=Action&ads.n52=channel_rating&ads.v52=TV-PG&ads.n53=device_type&ads.v53=&ads.n54=channel_language&ads.v54=en&ads.n55=dnt&ads.v55=&ads.n56=app_version&ads.v56=0.0.0&ads.n57=network_name&ads.v57=wild-west-tv&ads.n58=channel_ext_id&ads.v58=
 
-#EXTINF:-1 codec="hard" tvg-id="LN_B55F1141-71F9-463B-9383-3FDF2F34B220" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/jamiekennedycomedy.png" group-title="COMEDY", Jamie Kennedy Comedy
+#EXTINF:-1 codec="hard" tvg-id="LN_B55F1141-71F9-463B-9383-3FDF2F34B220" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/jamiekennedychannel.png" group-title="COMEDY", Jamie Kennedy Comedy
 https://s9host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/vll_config1/epg-jamie-kennedy-comedy2.isml/index.m3u8?ads.cdnhost=s9host2.localnow.api.cms.amdvids.com&ads.playbackid=B55F1141-71F9-463B-9383-3FDF2F34B220&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B55F1141-71F9-463B-9383-3FDF2F34B220&ads.n4=content_name&ads.v4=EPG%20%7C%20Jamie%20Kennedy%20Comedy&ads.n21=channel_language&ads.v21=en&ads.n22=channel_id&ads.v22=B55F1141-71F9-463B-9383-3FDF2F34B220&ads.n23=device_type&ads.v23=&ads.n24=content_livestream&ads.v24=1&ads.n25=gpp&ads.v25=&ads.n26=channel_brand_id&ads.v26=AMDB013108&ads.n27=content_custom_2_param&ads.v27=AMDB013108&ads.n28=h&ads.v28=1080&ads.n29=cust_devicename&ads.v29=desktop_web&ads.n30=content_producer_name&ads.v30=HARVADANIA%20CORP&ads.n31=channel_company_id&ads.v31=AMDP500418&ads.n32=dnt&ads.v32=&ads.n33=channel_ext_id&ads.v33=&ads.n34=ip&ads.v34=195.179.200.80&ads.n35=app_name&ads.v35=&ads.n36=w&ads.v36=1920&ads.n37=pos&ads.v37=midroll&ads.n38=url&ads.v38=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n39=app_store_url&ads.v39=&ads.n40=content_provider&ads.v40=jamie-kennedy-comedy&ads.n41=device_make&ads.v41=&ads.n42=did&ads.v42=&ads.n43=channel_rating&ads.v43=TV-PG&ads.n44=network_name&ads.v44=jamie-kennedy-comedy&ads.n45=ua&ads.v45=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n46=content_custom_1_param&ads.v46=B55F1141-71F9-463B-9383-3FDF2F34B220&ads.n47=us_privacy&ads.v47=1YNY&ads.n48=channel_genre&ads.v48=Comedy&ads.n49=channel_name&ads.v49=EPG%20%20Jamie%20Kennedy%20Comedy&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=gpp_sid&ads.v51=&ads.n52=channel_title&ads.v52=EPG%20%20Jamie%20Kennedy%20Comedy&ads.n53=ifa_type&ads.v53=&ads.n54=app_version&ads.v54=0.0.0&ads.n55=app_bundle&ads.v55=&ads.n56=content_type&ads.v56=channel&ads.n57=channel_corp&ads.v57=HARVADANIA%20CORP&ads.n58=device_model&ads.v58=
 
 #EXTINF:-1 codec="hard" tvg-id="LN_E817E82A-A322-4FA4-8F55-0E17116F726B" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/thecarolburnettshow.png" group-title="COMEDY", The Carol Burnett Show
@@ -10983,7 +10984,7 @@ https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 codec="hard" tvg-id="LN_081016AD-69A3-4236-A8A0-75391DB6F522" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/mysterysciencetheater3000.png" group-title="COMEDY", Mystery Science Theater 3000
 https://s6host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/playlist.m3u8?ads.cdnhost=s6host1.localnow.api.cms.amdvids.com&ads.playbackid=081016AD-69A3-4236-A8A0-75391DB6F522&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=081016AD-69A3-4236-A8A0-75391DB6F522&ads.n4=content_name&ads.v4=EPG%20%7C%20Mystery%20Science%20Theater%203000&ads.n21=content_provider&ads.v21=mystery-science-theater-3000&ads.n22=app_store_url&ads.v22=&ads.n23=ua&ads.v23=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n24=channel_ext_id&ads.v24=5f9ac56228511a3eee5293a3&ads.n25=gpp_sid&ads.v25=&ads.n26=ifa_type&ads.v26=&ads.n27=pos&ads.v27=midroll&ads.n28=content_type&ads.v28=channel&ads.n29=channel_brand_id&ads.v29=AMDB012079&ads.n30=channel_genre&ads.v30=Comedy&ads.n31=channel_language&ads.v31=en&ads.n32=device_type&ads.v32=&ads.n33=h&ads.v33=1080&ads.n34=channel_company_id&ads.v34=AMDP500152&ads.n35=ip&ads.v35=195.179.200.80&ads.n36=network_name&ads.v36=mystery-science-theater-3000&ads.n37=content_custom_2_param&ads.v37=AMDB012079&ads.n38=content_custom_1_param&ads.v38=081016AD-69A3-4236-A8A0-75391DB6F522&ads.n39=content_producer_name&ads.v39=Shout%21%20Factory%20LLC&ads.n40=channel_id&ads.v40=081016AD-69A3-4236-A8A0-75391DB6F522&ads.n41=app_bundle&ads.v41=&ads.n42=device_make&ads.v42=&ads.n43=channel_title&ads.v43=EPG%20%20Mystery%20Science%20Theater%203000&ads.n44=us_privacy&ads.v44=1YNY&ads.n45=gpp&ads.v45=&ads.n46=url&ads.v46=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n47=w&ads.v47=1920&ads.n48=device_model&ads.v48=&ads.n49=content_livestream&ads.v49=1&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=channel_name&ads.v51=EPG%20%20Mystery%20Science%20Theater%203000&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=did&ads.v53=&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=channel_corp&ads.v55=Shout%21%20Factory%20LLC&ads.n56=app_name&ads.v56=&ads.n57=app_version&ads.v57=0.0.0&ads.n58=dnt&ads.v58=
 
-#EXTINF:-1 codec="hard" tvg-id="LN_A4F952D6-10C8-41DC-88BF-963FB97A50C8" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/alwaysfunnypranksfails.png" group-title="COMEDY", Always Funny Pranks & Fails
+#EXTINF:-1 codec="hard" tvg-id="LN_A4F952D6-10C8-41DC-88BF-963FB97A50C8" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/alwaysfunnyprank&fail.png" group-title="COMEDY", Always Funny Pranks & Fails
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/863/hls/master/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=A4F952D6-10C8-41DC-88BF-963FB97A50C8&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=A4F952D6-10C8-41DC-88BF-963FB97A50C8&ads.n4=content_name&ads.v4=Always%20Funny%20Pranks%20&%20Fails&ads.n21=device_type&ads.v21=&ads.n22=ip&ads.v22=195.179.200.80&ads.n23=channel_ext_id&ads.v23=&ads.n24=content_provider&ads.v24=always-funny-pranks-fails&ads.n25=gpp_sid&ads.v25=&ads.n26=content_producer_name&ads.v26=Hollywood%20Licensing%20LLC&ads.n27=channel_company_id&ads.v27=AMDP500558&ads.n28=w&ads.v28=1920&ads.n29=app_version&ads.v29=0.0.0&ads.n30=content_custom_1_param&ads.v30=A4F952D6-10C8-41DC-88BF-963FB97A50C8&ads.n31=ua&ads.v31=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n32=channel_id&ads.v32=A4F952D6-10C8-41DC-88BF-963FB97A50C8&ads.n33=gpp&ads.v33=&ads.n34=channel_genre&ads.v34=Comedy&ads.n35=content_livestream&ads.v35=1&ads.n36=channel_language&ads.v36=en&ads.n37=h&ads.v37=1080&ads.n38=content_custom_2_param&ads.v38=AMDB013563&ads.n39=content_type&ads.v39=channel&ads.n40=us_privacy&ads.v40=1YNY&ads.n41=url&ads.v41=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n42=app_store_url&ads.v42=&ads.n43=device_model&ads.v43=&ads.n44=channel_brand_id&ads.v44=AMDB013563&ads.n45=channel_name&ads.v45=Always%20Funny%20Pranks%20&%20Fails&ads.n46=device_make&ads.v46=&ads.n47=pos&ads.v47=midroll&ads.n48=content_custom_3_param&ads.v48=channel&ads.n49=ifa_type&ads.v49=&ads.n50=cust_devicename&ads.v50=desktop_web&ads.n51=did&ads.v51=&ads.n52=network_name&ads.v52=always-funny-pranks-fails&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=app_bundle&ads.v54=&ads.n55=channel_corp&ads.v55=Hollywood%20Licensing%20LLC&ads.n56=channel_title&ads.v56=Always%20Funny%20Pranks%20&%20Fails&ads.n57=app_name&ads.v57=&ads.n58=dnt&ads.v58=
 
 #EXTINF:-1 codec="hard" tvg-id="LN_27B297E5-83A0-457F-B9EC-33C5A020F040" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/failarmy.png" group-title="COMEDY", FailArmy
@@ -10995,13 +10996,13 @@ https://226e16455804443d8a746edf3b5ad1ba.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 codec="hard" tvg-id="LN_8B382916-6958-4C22-98BF-3F3CD781A4A9" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/justforlaughs.png" group-title="COMEDY", Just For Laughs Gags
 https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsGags/playlist.m3u8?ads.coppa=0&ads.ifa_type=&ads.wurl_channel=1191&ads.app_bundle=&ads.wurl_name=JustForLaughsGags&ads.channel_ext_id=62aa50060046b653e82db779&ads.device_make=&ads.channel_company_id=AMDP500554&ads.did=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.ip=195.179.200.80&ads.dnt=&ads.content_id=8B382916-6958-4C22-98BF-3F3CD781A4A9&ads.content_title=EPG%20%20Just%20For%20Laughs%20Gags&ads.channel_corp=ComediHA%2024%20INC&ads.app_name=&ads.app_store_url=&ads.content_genre=Comedy&ads.device_model=&ads.cust_channeltype=channel&ads.device_type=&ads.us_privacy=1YNY&ads.cust_devicename=&ads.content_provider=just-for-laughs-gags&ads.channel_brand_id=AMDB013559&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0
 
-#EXTINF:-1 codec="hard" tvg-id="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/theredgreenshow.png" group-title="COMEDY", The Red Green Show
+#EXTINF:-1 codec="hard" tvg-id="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/theredgreenchannel.png" group-title="COMEDY", The Red Green Show
 https://3fb9588b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TG9jYWxOb3dfVGhlUmVkR3JlZW5DaGFubmVsX0hMUw/playlist.m3u8?ads.did=&ads.device_model=&ads.channel_brand_id=AMDB012628&ads.channel_corp=Spacemob%20Studio&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.dnt=&ads.cust_devicename=&ads.content_title=EPG%20%20The%20Red%20Green%20Show&ads.wurl_channel=949&ads.app_store_url=&ads.cust_channeltype=channel&ads.channel_company_id=AMDP500286&ads.channel_ext_id=6206d436f3bf9076a33ce426&ads.us_privacy=1YNY&ads.app_bundle=&ads.ifa_type=&ads.device_type=&ads.content_genre=Comedy&ads.content_id=61FD3E40-54BC-4E1E-9BB1-40B60DDD6662&ads.ip=195.179.200.80&ads.app_name=&ads.wurl_name=TheRedGreenChannel&ads.content_provider=the-red-green-show&ads.coppa=0&ads.device_make=&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920
 
 #EXTINF:-1 codec="hard" tvg-id="LN_D69A4E6E-AF54-4F38-BA4C-AD7246522B51" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/trailerparkboys.png" group-title="COMEDY", Trailer Park Boys
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/732/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n4=content_name&ads.v4=Trailer%20Park%20Boys&ads.n21=device_type&ads.v21=&ads.n22=w&ads.v22=1920&ads.n23=dnt&ads.v23=&ads.n24=content_livestream&ads.v24=1&ads.n25=channel_company_id&ads.v25=AMDP500152&ads.n26=app_store_url&ads.v26=&ads.n27=device_make&ads.v27=&ads.n28=cust_devicename&ads.v28=desktop_web&ads.n29=gpp_sid&ads.v29=&ads.n30=content_producer_name&ads.v30=Shout%21%20Factory%20LLC&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=content_type&ads.v32=channel&ads.n33=us_privacy&ads.v33=1YNY&ads.n34=did&ads.v34=&ads.n35=content_custom_1_param&ads.v35=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n36=channel_ext_id&ads.v36=&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=channel_language&ads.v38=en&ads.n39=app_version&ads.v39=0.0.0&ads.n40=ip&ads.v40=195.179.200.80&ads.n41=app_name&ads.v41=&ads.n42=channel_id&ads.v42=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n43=channel_title&ads.v43=Trailer%20Park%20Boys&ads.n44=content_provider&ads.v44=trailer-park-boys&ads.n45=gpp&ads.v45=&ads.n46=pos&ads.v46=midroll&ads.n47=channel_brand_id&ads.v47=AMDB013524&ads.n48=content_custom_2_param&ads.v48=AMDB013524&ads.n49=channel_genre&ads.v49=Comedy&ads.n50=ifa_type&ads.v50=&ads.n51=h&ads.v51=1080&ads.n52=channel_name&ads.v52=Trailer%20Park%20Boys&ads.n53=device_model&ads.v53=&ads.n54=ua&ads.v54=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n55=channel_corp&ads.v55=Shout%21%20Factory%20LLC&ads.n56=channel_rating&ads.v56=TV-PG&ads.n57=network_name&ads.v57=trailer-park-boys&ads.n58=app_bundle&ads.v58=
 
-#EXTINF:-1 codec="hard" tvg-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/threestooges.png" group-title="COMEDY", Three Stooges+
+#EXTINF:-1 codec="hard" tvg-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/thethreestooges.png" group-title="COMEDY", Three Stooges+
 https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?did=&dnt=&genre=Comedy&gdpr_consent=&channel_corp=C3%20Entertainment%20INC&channel_company_id=AMDP500511&us_privacy=1YNY&h=1080&channel_name=Three%20Stooges+&app_bundle=&app_store_url=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&w=1920&gdpr=&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&ic=&device_model=&device_type=&coppa=0&idtype=&iu=&channel_brand_id=AMDB013402&device_make=&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&content_provider=three-stooges&app_name=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=195.179.200.80
 
 
@@ -11385,7 +11386,7 @@ https://s4host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 codec="hard" tvg-id="LN_678078CD-6199-425A-B668-DF532665F5FC" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/travelxp.png" group-title="TRAVEL", Travelxp
 https://5679cf0d19d84a1db189bd78a9f549f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LocalNow_TravelXP/playlist.m3u8?ads.channel_company_id=AMDP500500&ads.app_name=&ads.device_make=&ads.wurl_channel=473&ads.ifa_type=&ads.content_title=EPG%20%20Travelxp&ads.content_provider=travel-xp&ads.ip=195.179.200.80&ads.channel_ext_id=642c949944951a305708ab09&ads.coppa=0&ads.dnt=&ads.device_type=&ads.content_genre=Travel&ads.channel_brand_id=AMDB013329&ads.channel_corp=Travelxp%20LLC&ads.wurl_name=TravelXP&ads.us_privacy=1YNY&ads.app_store_url=&ads.cust_devicename=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.cust_channeltype=channel&ads.app_bundle=&ads.device_model=&ads.content_id=678078CD-6199-425A-B668-DF532665F5FC&ads.did=&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0
 
-#EXTINF:-1 codec="hard" tvg-id="LN_9F3B1CEF-B411-4107-B589-E8BA34462C45" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/travel&food.png" group-title="TRAVEL", BRB Travel + Food
+#EXTINF:-1 codec="hard" tvg-id="LN_9F3B1CEF-B411-4107-B589-E8BA34462C45" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/brbtravelfood.png" group-title="TRAVEL", BRB Travel + Food
 https://14f44f4f12e6439cb4761154002383ba.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_BRBTravelandFood/playlist.m3u8?ads.app_store_url=&ads.cust_devicename=&ads.channel_brand_id=AMDB013381&ads.ifa_type=&ads.content_genre=Travel&ads.app_bundle=&ads.cust_channeltype=channel&ads.channel_company_id=AMDP500510&ads.dnt=&ads.device_type=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.content_id=9F3B1CEF-B411-4107-B589-E8BA34462C45&ads.content_title=BRB%20Travel%20+%20Food&ads.us_privacy=1YNY&ads.wurl_channel=1210&ads.wurl_name=BRBTravelandFood&ads.app_name=&ads.channel_ext_id=&ads.did=&ads.device_model=&ads.channel_corp=Playworks%20Digital%20Limited&ads.coppa=0&ads.ip=195.179.200.80&ads.device_make=&ads.content_provider=brb-travel-food&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
 
 
